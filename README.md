@@ -31,9 +31,7 @@
 - **Workshops Attended:**
   - Prompt Engineering
   - Cyber Security
-  - Operating Systems
-  - Python
-  - Data Analysis and Cleaning
+  - Operating System, Python, Data Analysis and Cleaning
 
 ---
 
@@ -44,14 +42,7 @@
 **CGPA:** 8.2
 
 Courses:  
-- Data Structures (DSA)
-- Operating Systems
-- DBMS
-- OOPS
-- Data Science
-- Artificial Intelligence
-
----
+- Data Structures (DSA), Operating Systems, DBMS, OOPS, Data Science, Artificial Intelligence
 
 ## 🛠️ Technical Skills
 
