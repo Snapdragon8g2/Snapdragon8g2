@@ -3,38 +3,6 @@
 🎓 I'm a Computer Science Engineering student specializing in Artificial Intelligence and Data Science at RNS Institute of Technology, Bangalore. I’m passionate about building impactful tech solutions and continually expanding my skills in software development and data science.
 
 ---
-
-## 🚀 Projects
-
-### 🔍 AI Fake News Detector
-- Built a fake news detection model using Python and scikit-learn.
-- Created a Streamlit app to classify news articles via URL.
-- Wrote unit tests using pytest for model and app validation.
-- [Project Repo](https://github.com/Snapdragon8g2/AIFakeNewsDetector)
-
----
-
-## 💼 Work Experience
-
-### 💻 CodSoft Internship (Feb 2025 - Mar 2025)
-- Worked as a Java Developer intern.
-- Gained experience in Java programming and backend development.
-- Applied project management methodologies.
-
----
-
-## 🏆 Certifications & Virtual Experience
-
-- **Walmart USA Advanced Software Engineering Virtual Experience (Forage, Apr 2025)**
-  - Solved complex technical problems for multiple Walmart teams.
-
-- **Workshops Attended:**
-  - Prompt Engineering
-  - Cyber Security
-  - Operating System, Python, Data Analysis and Cleaning
-
----
-
 ## 📚 Education
 
 **Bachelor of Engineering in Computer Science**  
